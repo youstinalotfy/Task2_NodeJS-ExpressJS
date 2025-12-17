@@ -1,5 +1,4 @@
-# Node modules
-node_modules
-
-# Environment variables
+node_modules/
 .env
+npm-debug.log*
+.DS_Store
